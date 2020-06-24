@@ -9,7 +9,9 @@
 * Swipe left to skip suggestion;
 * Swipe right to save suggestion;
 
-##### This app will allow the user to save or skip the random activities suggested to them from the "bored api".
+** This app will allow the user to save or skip the random activities suggested to them from the "bored api".**
+** In order for this app to work - the user will have to grant the INTERNET permission.**
+
 There will be four activities:
 * The **MainActivity** (main menu);
 * The **BrowseActivity** (for browsing through suggestions from the api);
