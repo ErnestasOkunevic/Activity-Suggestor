@@ -3,12 +3,12 @@
 ## App name: **Activity Suggestor**
  
 #### The url: **https://www.boredapi.com**
-
+**-------------------------------------------------------------------------------------------------------------------------------------------------**
+## Description:
 #### Controls (for browsing):
 * Swipe left to skip suggestion;
 * Swipe right to save suggestion;
 
-## Description:
 ##### This app will allow the user to save or skip the random activities suggested to them from the "bored api".
 There will be four activities:
 * The **MainActivity** (main menu);
