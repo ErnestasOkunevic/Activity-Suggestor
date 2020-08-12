@@ -1,8 +1,10 @@
 # Capstone project for android app development course
 
 ## App name: **Activity Suggestor**
+
+## App showcase video url: https://www.youtube.com/watch?v=7sFUjC8e6C8
  
-#### The url: **https://www.boredapi.com**
+#### API url: **https://www.boredapi.com**
 **-------------------------------------------------------------------------------------------------------------------------------------------------**
 ## Description:
 #### Controls (for browsing):
